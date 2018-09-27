@@ -1,0 +1,20 @@
+5 Gera uma lista de jogos classificada por ordem de data , os times que participaram serão selecionados aleatoriamente  .
+6 Gera uma lista  ordenada de  campeonato e local .
+7 Permite cadastro dos resultados dos jogos.
+8 Permite Cadastrar  no banco de dados pontos e o programa irá gerar  classificação de cada time no campeonato ,
+9 Permite Cadastrar  no banco de dados  no de vitorias  e derrotas ,
+
+10 Permite Cadastrar no banco de dados gols marcados e tomados .
+ 
+11 Permite Cadastrar  no banco de dados cartão vermelhos amarelos .
+ 
+12 Permite Cadastrar  falta cometidas . 
+ 
+13 Permite consultar no banco de dados pontos e classificação de cada time no campeonato ,
+14 Permite consultar no banco de dados no de vitorias ,
+15 Permite consultar no no banco de dados de derrotas .
+16 Permite consultar no banco de dados gols marcados 
+17 Permite consultar no banco de dados gols tomados 
+18 Permite consultar no banco de dados cartão vermelhos 
+19 Permite consultar no banco de dados cartão amarelos .
+20 Permite consultar no banco de dados faltas cometidas . 
