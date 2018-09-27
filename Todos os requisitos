@@ -1,3 +1,13 @@
+1- Criar o banco de dados para o programa. 
+2- Programar cadastro de times, com nome do time, jogadores e cores dos 
+uniformes. 
+3- Programar o cadastro dos campeonatos, terão que criar um 
+select button para definir qual sistema utilizar para a 
+organizaçao dos seus jogos, definir quais times participarão desse campeonato
+e qual será o nome do campeonato.
+4- Realizar o cadastro dos usuários, definir permissões referente a sua 
+hierarquia.
+
 5 Gera uma lista de jogos classificada por ordem de data , os times que participaram serão selecionados aleatoriamente  .
 6 Gera uma lista  ordenada de  campeonato e local .
 7 Permite cadastro dos resultados dos jogos.
